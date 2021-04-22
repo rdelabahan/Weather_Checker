@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid red; */
+}
+
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
+
+.f_items {
+    margin-top: 1px;
+    display: inline-block;
+    font-weight: bolder;
+}
+
+#inner_first {
+    margin-top: 15px;
+}
+
+#first {
+    text-align: center;
+    background-color: rgb(58, 189, 189);
+    height: 109px;
+}
+
+#submit {
+    margin-left: 15px;
+}
+
+#style_r {
+    padding-top: 5px;
+    background-color: rgb(58, 189, 189);
+    height: 300px;
+    width: 350px;
+    text-align: center;
+}
+
+#messages {
+    margin-top: 35px;
+    border-radius: 5px;
+    border: 2px dotted rgb(58, 189, 189);
+    height: 300px;
+    width: 350px;
+}
+
+#second {
+    display: flex;
+    justify-content: center;
+}
+
+.second_items {
+    margin-top: 15px;
+}
