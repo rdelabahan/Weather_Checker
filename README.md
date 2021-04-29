@@ -3,7 +3,7 @@ An app that uses an API to check the weather of a location and it also uses AJAX
 
 ## IMPORTANT PLEASE READ!!! 
 
-- This project have dependencies. Please download the packages in the requirements.txt to run this project!!!
+- This project have dependencies. Please download the packages in the requirements.txt to run this project.
 
 ```
 pip install -r requirements.txt
